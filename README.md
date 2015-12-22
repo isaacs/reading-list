@@ -27,6 +27,12 @@ my hands, like commuting or going to the gym.
   Great](http://smile.amazon.com/Good-Great-Some-Companies-Others/dp/B003VXI5MS)
 * [Creativity,
   Inc.](http://smile.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/B00IPJTQQW)
+* [Facts and Fallacies of Software
+  Engineering](http://smile.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425)
+* [The Mythical Man
+  Month](http://smile.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+* [Managing
+  Humans](http://smile.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
 
 ### Communication as such
 
