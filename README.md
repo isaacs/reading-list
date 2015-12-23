@@ -77,3 +77,4 @@ my hands, like commuting or going to the gym.
   Z](http://smile.amazon.com/World-War-Oral-History-Zombie/dp/B000IJ7IE4)
   Fantasticly well-done audiobook.  The book really shines in this
   format.
+* [Ender's Shadow](http://smile.amazon.com/dp/0812575717) Amazing storyline. Compliments the book that was used to make the movie       Ender's Game
