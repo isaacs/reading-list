@@ -40,6 +40,8 @@ my hands, like commuting or going to the gym.
   Communication](http://smile.amazon.com/Nonviolent-Communication-Language-Rosenberg-Paperback/dp/B00BP0OWBW/)
 * [Crucial
   Conversations](http://smile.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/B009S8GO14)
+* [Choosing
+  Peace](www.amazon.com/Choosing-Peace-Communicate-Connection-Communication/dp/0989972003)
 
 ### Cognitive Biases and other fun stuff
 
